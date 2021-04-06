@@ -1,2 +1,2 @@
-# Hello-Python
+# Course Python
 Основы Python
