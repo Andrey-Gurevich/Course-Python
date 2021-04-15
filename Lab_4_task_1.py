@@ -5,8 +5,8 @@ def tribonacci_generator():
         a, b, c = b, c, a + b + c
 
 
-fib = tribonacci_generator()
+f = tribonacci_generator()
 n = 1
 for i in range(35):
-    print(str(n) + " число: ", next(fib))
+    print(str(n) + " число: ", next(f))
     n += 1
